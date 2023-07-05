@@ -1,0 +1,15 @@
+[2022-03-10 20:55:51] [ INFO ] [TestTest:32] Xn
+[2022-03-10 20:56:24] [ WARN ] [TestTest:32] Xn
+[2022-03-10 21:08:26] [ INFO ] [TestListaPromedio:32] Xn
+[2022-03-10 21:26:49] [ INFO ] [TestListaPromedio:41] Xn
+[2022-03-10 21:28:57] [ INFO ] [TestListaPromedio:42] Xn
+[2022-03-10 21:55:11] [ INFO ] [TestListaPromedio:24] Xn
+[2022-03-10 21:56:20] [ INFO ] [TestListaPromedio:24] Xn
+[2022-03-10 21:57:16] [ INFO ] [TestListaPromedio:24] Xn
+[2022-03-10 21:57:27] [ INFO ] [Main:21] Xn
+[2022-03-10 21:58:32] [ INFO ] [TestListaPromedio:24] Xn
+[2022-03-10 21:59:09] [ INFO ] [TestListaPromedio:17] Xn
+[2022-03-10 21:59:09] [ INFO ] [TestListaPromedio:24] Xn
+[2022-03-10 22:00:19] [ INFO ] [TestListaPromedio:17] Xn
+[2022-03-10 22:00:19] [ INFO ] [TestListaPromedio:24] Xn
+[2022-03-10 22:00:19] [ ERROR] [TestListaPromedio:14] Xn

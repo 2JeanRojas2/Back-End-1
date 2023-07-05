@@ -1,0 +1,10 @@
+[2022-03-11 14:33:58] [ ERROR] [Main:53] La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-12 09:16:49] [ ERROR] [Main:53] Tabla "FIGURAS" no encontrada
+Table "FIGURAS" not found; SQL statement:
+SELECT * FROM FIGURAS [42102-210]
+[2022-03-12 09:17:24] [ ERROR] [Main:53] Tabla "FIGURAS" no encontrada
+Table "FIGURAS" not found; SQL statement:
+SELECT * FROM FIGURAS [42102-210]
+[2022-03-12 09:18:43] [ ERROR] [Main:53] La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]

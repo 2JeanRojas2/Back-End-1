@@ -1,0 +1,30 @@
+/* Pasos para implementar la librería de Log4j
+
+1) Primero descargamos la librería
+
+https://logging.apache.org/log4j/1.2/download.html
+
+(Yo descargué → Apache log4j 1.2.17 (zip))
+
+2) Una vez que tenemos la librería descargada SOLAMENTE copiamos y pegamos el archivo .jar
+IMPORTANTE:
+El archivo .jar tiene que ir dentro de la carpeta lib dentro de nuestro proyecto
+
+log4j-1.2.17.jar
+
+4) No es suficiente colocar la librería en el proyecto, sino que hay que configurar el IDE para que la reconozca:
+
+File → Project Structure → dentro de Project Settings buscamos Libraries →
++ Java → Buscamos el archivo .jar que habíamos puesto en nuestra carpeta lib en nuestro proyecto
+Le damos ok y seguimos
+
+5) Necesitamos crear primero un registrador de logger en cada clase que use el log
+
+final static Logger logger = Logger.getLogger(TestListaPromedio.class);
+
+6) Indicamos el nivel del mensaje y le decimos cuál será el texto a mostrar
+
+logger.log(Level.INFO, "Hola mundo");
+
+
+

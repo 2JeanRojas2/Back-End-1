@@ -1,0 +1,1 @@
+Juan;Rodriguez;1154;56000;Jorge;Sanchez;2322;74000;Mario;Martinez;5420;46000;Santiago;Pereyra;7293;75000

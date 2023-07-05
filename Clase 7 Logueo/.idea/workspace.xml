@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8414a022-f990-4faa-add0-96eade0f5af3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Clase 19 Serializacion Sinc/Clase 19 Serializacion Sinc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase 20 Serializacion Sinc/Clase 20 Serializacion Sinc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/CV Batman/Css/Style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/CV Batman/Img/ico_instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/CV Batman/Img/ico_linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/CV Batman/Img/logo batman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/CV Batman/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/El Clasico Lemon Pie/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/El Clasico Lemon Pie/img/Group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/El Clasico Lemon Pie/img/lemon-pie 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/El Clasico Lemon Pie/index.html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Notas/1o_Semana_-_Herramientas_del_Frontend (1).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Notas/1o_Semana_-_Herramientas_del_Frontend.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Notas/2o_Semana_-_HTML.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Notas/3o_Semana_-_CSS.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Notas/4o_Semana_-_Box_model.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Notas/5o_Semana_-_Diseno_Adaptativo.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Notas/6o_Semana_-_Formularios.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Notas/6o_Semana_-_Pseudoselectores.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Notas/CSS-selectors-cheatsheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pet's Shop/Css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pet's Shop/Img/Bowl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pet's Shop/Img/Correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pet's Shop/Img/Group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pet's Shop/Img/Huesito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pet's Shop/Img/Location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pet's Shop/Img/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pet's Shop/Img/Logo1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pet's Shop/Img/Phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pet's Shop/Img/churrasquito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pet's Shop/Img/comedero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pet's Shop/Img/paw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pet's Shop/Img/pawprint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pet's Shop/index.html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pizza/apuntes_MQ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pizza/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pizza/css/style_base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pizza/img/PizzaFalling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pizza/img/VectorPizza.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pizza/img/boceto_desktop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pizza/img/boceto_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pizza/img/delivery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Pizza/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Contacto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Harley.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/Corazon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/Fondo-LV.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/Liga justicia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/Linterna-Verde.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/Superman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/bate 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/batman fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/batman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/bazooka 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/bg 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/fondo Superman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/gun 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/harley.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/liga de la justicia.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/logo dc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/rosa harley.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Img/villanos.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/Registro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/datos/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Heroes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Superman/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Superman/img/superman fondo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto Superman/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Contacto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Heroes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/Corazon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/Fondo-LV.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/Liga justicia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/Linterna-Verde.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/Superman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/bate 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/batman fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/batman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/bazooka 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/bg 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/fondo Superman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/gun 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/harley.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/liga de la justicia.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/logo dc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/rosa harley.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Img/villanos.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Registro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/Villanos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Proyecto heroes 2.0/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Public/Root/Css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Public/Root/Img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Public/Root/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/Public/prueba.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/clase_19_mesa/css/style_base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/clase_19_mesa/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/clase_19_mesa/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/clase_19_mesa/referenciaAcrtividad.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/grid/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/grid/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/grid/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/grid/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/grid/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/grid/img/final.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/grid/img/logo-DH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd1/grid/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion Imperactiva/Clase 11--For loop/Clase 11.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programacion Imperactiva/Clase 11--For loop/Clase 11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion Imperactiva/Clase 6/Calculadora.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programacion Imperactiva/Clase 6/Calculadora.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion Imperactiva/Clase 8/c8.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="26F8mihs2Jhln7nX45QETuqBOno" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8414a022-f990-4faa-add0-96eade0f5af3" name="Changes" comment="" />
+      <created>1647008153282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647008153282</updated>
+    </task>
+    <servers />
+  </component>
+</project>
